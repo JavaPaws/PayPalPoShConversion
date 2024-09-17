@@ -1,0 +1,8 @@
+T0005 : "Direct payment API."
+T0006 : "PayPal Checkout APIs."
+T1105 : "Reversal of general account hold."
+T1107 : "Payment refund, initiated by merchant."
+T1201 : "Chargeback."
+T1501 : "Account hold for open authorization."
+T2103 : "Reserve hold."
+T2104 : "Reserve release"
